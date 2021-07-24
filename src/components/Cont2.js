@@ -6,7 +6,7 @@ export class Cont2 extends Component {
   render() {
     return (
       <div>
-          State From second component
+          State From second component which will be updating 
          {this.props.sfn}
       </div>
     )

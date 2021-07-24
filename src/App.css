@@ -1,0 +1,13 @@
+.App
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: lightblue;
+}
+
+button
+{
+color: black;
+background-color: gray;
+}
